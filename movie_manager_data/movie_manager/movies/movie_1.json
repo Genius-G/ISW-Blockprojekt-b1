@@ -1,0 +1,29 @@
+{
+  "description": "Sherlock Holmes is a 2009 period mystery action film based on the character of the same name created by Sir Arthur Conan Doyle. The film was directed by Guy Ritchie and produced by Joel Silver, Lionel Wigram, Susan Downey, and Dan Lin. The screenplay, by Michael Robert Johnson, Anthony Peckham, and Simon Kinberg, was developed from a story by Wigram and Johnson. Robert Downey Jr. and Jude Law portray Sherlock Holmes and Dr. John Watson respectively. Set in 1890, eccentric detective Holmes and his companion Watson are hired by a secret society to foil a mysticist's plot to expand the British Empire by seemingly supernatural means. Rachel McAdams stars as their former adversary Irene Adler and Mark Strong portrays villain Lord Henry Blackwood. The film was widely released in North America on December 25, 2009, and on December 26, 2009 in the UK, Ireland, the Pacific and the Atlantic.",
+  "dueDate": null,
+  "filmingLocations": [
+    "United Kingdom"
+  ],
+  "languages": [
+    "English"
+  ],
+  "productionLocations": [
+    ""
+  ],
+  "releases": [
+    {
+      "first": "United States",
+      "second": "Fri Dec 25 00:00:00 GMT 2009"
+    },
+    {
+      "first": "United Kingdom",
+      "second": "Sat Dec 26 00:00:00 GMT 2009"
+    }
+  ],
+  "runtime": 129,
+  "watchDate": "Wed Aug 09 00:00:00 GMT 2017",
+  "id": 1,
+  "imageId": 2,
+  "name": "Sherlock Holmes",
+  "rating": -1
+}
